@@ -161,7 +161,7 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
   {
     id: 'dinossauros',
     title: 'Dinossauros',
-    image: 'https://picsum.photos/seed/dinossauros/800/600',
+    image: 'https://i.imgur.com/OxRFZIv.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgDqS73uFiChTJKcz-nvFAoXAUaUE1wiwO3dIIqBHZBG1Wc?e=PU5W26',
     buttonText: 'Baixar'
   }
