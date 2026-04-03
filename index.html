@@ -5,12 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mundo de Papel</title>
     <link rel="manifest" href="/manifest.json" />
-    <meta name="theme-color" content="#b22200" />
-    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <meta name="theme-color" content="#FF6B35" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Mundo de Papel" />
+    <link rel="apple-touch-icon" href="https://i.imgur.com/16V6w7x.png" />
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(error => {
+            console.error('ServiceWorker registration failed:', error);
+          });
+        });
+      }
+    </script>
   </body>
 </html>
 
