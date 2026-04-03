@@ -100,15 +100,6 @@ function Moldes3DView({ onCategoryClick }: { onCategoryClick: (category: Categor
           <button className="bg-secondary-container text-black border-4 border-black rounded-xl px-6 py-3 font-headline font-extrabold neubrutalism-shadow active-press hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all">
             Todos os Moldes
           </button>
-          <button className="bg-white text-black border-4 border-black rounded-xl px-6 py-3 font-headline font-extrabold neubrutalism-shadow active-press hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all">
-            Star Wars
-          </button>
-          <button className="bg-white text-black border-4 border-black rounded-xl px-6 py-3 font-headline font-extrabold neubrutalism-shadow active-press hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all">
-            Disney
-          </button>
-          <button className="bg-white text-black border-4 border-black rounded-xl px-6 py-3 font-headline font-extrabold neubrutalism-shadow active-press hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all">
-            Anime
-          </button>
         </div>
       </div>
 
