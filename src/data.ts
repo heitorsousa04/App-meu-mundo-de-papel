@@ -164,5 +164,12 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
     image: 'https://i.imgur.com/OxRFZIv.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgDqS73uFiChTJKcz-nvFAoXAUaUE1wiwO3dIIqBHZBG1Wc?e=PU5W26',
     buttonText: 'Baixar'
+  },
+  {
+    id: 'minecraft',
+    title: 'Minecraft',
+    image: 'https://i.imgur.com/TcPkCLk.png',
+    link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgBXnCSDgq92SKnG_r6bNpYvAWejOr18mnKUoGg-Exfp8ig?e=HMrpiI',
+    buttonText: 'Baixar'
   }
 ];
