@@ -104,7 +104,7 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
   },
   {
     id: 'star-wars',
-    title: 'Star Wars',
+    title: 'Galáxia',
     image: 'https://i.imgur.com/C6BTXwv.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgBuCvHHs6shR7uxXHs6LpSRAeY8cpSNPltEOx9S4JKbn1I?e=yqplQy',
     buttonText: 'Baixar'
@@ -118,14 +118,14 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
   },
   {
     id: 'guardioes',
-    title: 'Guardiões da Galáxia',
+    title: 'Patrulha Espacial',
     image: 'https://i.imgur.com/0kGSWdb.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgAD7klMfMt1Tajmq4dkBWIBAelLg_YRmrTxZATmdrIwCvk?e=0UWkrX',
     buttonText: 'Baixar'
   },
   {
     id: 'disney',
-    title: 'Disney',
+    title: 'Contos de Fadas',
     image: 'https://i.imgur.com/2Ezw2Jn.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgCnaAOtR68zQL5VmNaS_jLMAUA5MOzVBH6KaFprOajvNnA?e=IzeXTw',
     buttonText: 'Baixar'
@@ -146,7 +146,7 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
   },
   {
     id: 'lego',
-    title: 'Lego',
+    title: 'Mundo de Blocos',
     image: 'https://i.imgur.com/4P399F4.jpeg',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgCvHlWCCzf-R62ghNrikNXuATE_dLU6S2HhUPzubOquRrk?e=4KIcAr',
     buttonText: 'Baixar'
@@ -167,7 +167,7 @@ export const MOLDES_3D_SUBCATEGORIES: Category[] = [
   },
   {
     id: 'minecraft',
-    title: 'Minecraft',
+    title: 'Aventura Pixelada',
     image: 'https://i.imgur.com/TcPkCLk.png',
     link: 'https://1drv.ms/f/c/3ba4ece23a5691f5/IgBXnCSDgq92SKnG_r6bNpYvAWejOr18mnKUoGg-Exfp8ig?e=HMrpiI',
     buttonText: 'Baixar'
